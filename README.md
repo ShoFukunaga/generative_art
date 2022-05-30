@@ -19,14 +19,13 @@ https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
 ```
 
 ## 球螺旋
-<img src="[***画像のURL***](https://user-images.githubusercontent.com/88916645/171006196-0f600485-adf0-495c-bf9e-6831bcea8cb7.gif)" width="***サイズ***">
 ![図7_ 球周りの螺旋](https://user-images.githubusercontent.com/88916645/171006196-0f600485-adf0-495c-bf9e-6831bcea8cb7.gif)
 
 ## Wave Clock
 ![図4_ Wave Clock](https://user-images.githubusercontent.com/88916645/171007250-89754f91-cadb-4831-bd2a-c2730631c92e.gif)
 
 ## 空
-![図14_ 空](https://user-images.githubusercontent.com/88916645/171008034-ba3e0d00-a601-4ec8-a830-9b2fd471fe48.gif)
+![空3](https://user-images.githubusercontent.com/88916645/171011218-2b390df3-96e4-4980-b5fc-820f433fa707.gif)
 
 ## 流水
 ![図15_ 流れる水](https://user-images.githubusercontent.com/88916645/171009223-8b85402d-2669-431e-a5b6-38497589f933.gif)
