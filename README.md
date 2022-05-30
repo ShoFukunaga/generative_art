@@ -17,3 +17,6 @@ cd generative_art
 ```bash
 https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
 ```
+
+## 球螺旋
+https://github.com/ShoFukunaga/generative_art/issues/1
