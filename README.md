@@ -1,1 +1,1 @@
-# generative_art-p5_js
+# generative_art by p5.js
